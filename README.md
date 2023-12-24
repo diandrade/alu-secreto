@@ -4,7 +4,6 @@ Realização de projetos voltados para o ensino da lógica de programação atra
 
 Utilização de elementos de JavaSript em aplicação com CSS para manipulação de botões em páginas estáticas na web.
 
-
 - Realizar validações das informações, com o uso de condicionais;
 
 - Interromper a execução de uma função, com o uso do return;
@@ -18,7 +17,6 @@ Utilização de elementos de JavaSript em aplicação com CSS para manipulação
 - Adicionar um elemento a um array com a função push;
 
 - Utilizar um código já desenvolvido por terceiros, para realizar o embaralhamento de elementos em um array.
-  
 
 https://alu-secreto.vercel.app/
 
