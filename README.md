@@ -1,6 +1,6 @@
 # alu-secreto
 
-Realização de projetos voltados para o ensino da lógica de programação através da linguagem JavaScript.
+Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
 
 Utilização de elementos de JavaSript em aplicação com CSS para manipulação de botões em páginas estáticas na web.
 
