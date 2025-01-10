@@ -1,23 +1,19 @@
 # alu-secreto
 
-Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
+This project focuses on teaching programming logic through **JavaScript**.
 
-Utilização de elementos de JavaSript em aplicação com CSS para manipulação de botões em páginas estáticas na web.
+It utilizes **JavaScript** elements in combination with **CSS** to manipulate buttons on static web pages.
 
-- Realizar validações das informações, com o uso de condicionais;
+### Key Concepts and Features Implemented:
 
-- Interromper a execução de uma função, com o uso do return;
+- Validate information using conditionals.
+- Interrupt the execution of a function using `return`.
+- Get the number of elements in an array using the `length` property.
+- Check if an element exists in an array using the `includes` function.
+- Declare an array variable to represent a list.
+- Add an element to an array using the `push` function.
+- Use pre-existing code to shuffle elements in an array.
 
-- Obter o número de elementos em um array, com a propriedade length;
-
-- Checar se um elemento existe em um array, com o uso da função includes.
-
-- Declarar uma variável do tipo array para representar uma lista;
-
-- Adicionar um elemento a um array com a função push;
-
-- Utilizar um código já desenvolvido por terceiros, para realizar o embaralhamento de elementos em um array.
-
-https://alu-secreto.vercel.app/
+[Visit the Project](https://alu-secreto.vercel.app/)
 
 ![image](https://github.com/diandrade/alu-secreto/assets/81432715/dd31f519-6bab-4d16-b214-11951105066b)
